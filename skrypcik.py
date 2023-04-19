@@ -1,0 +1,1 @@
+piszemy funkcje class
